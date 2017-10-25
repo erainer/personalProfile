@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Emily</string>
+    <string name="txt_caption">Emily and Mangi Face Swap</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Hello, I am a student that is attending McHenry County College and I am
+        getting a degree in Mobile Application Development. I enjoy programming and currently know C++
+        and in the process of learning Java, Swift, HTML and CSS. </string>
+</resources>
